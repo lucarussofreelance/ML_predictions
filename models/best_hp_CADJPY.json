@@ -1,0 +1,14 @@
+{
+  "shared_units": 64,
+  "shared_dropout": 0.2,
+  "high_dense": 12,
+  "low_dense": 12,
+  "body_dense": 4,
+  "lr": 0.007836255783976532,
+  "tuner/epochs": 30,
+  "tuner/initial_epoch": 10,
+  "tuner/bracket": 2,
+  "tuner/round": 2,
+  "tuner/trial_id": "0069",
+  "num_features": 31
+}
